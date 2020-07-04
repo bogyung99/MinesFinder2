@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e635b363-c540-4fe3-acbc-f0d11e18048c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UkKu38ac0afPIYKpBbNJK2Ns1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java.security" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MinesFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.technic.apps.minesfinder.MinesFinder" />
+      <module name="Minesfinder-master1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.technic.apps.minesfinder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinesFinder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e635b363-c540-4fe3-acbc-f0d11e18048c" name="Default Changelist" comment="" />
+      <created>1575895372548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575895372548</updated>
+      <workItem from="1575895375644" duration="3252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1342" height="33" key="GridCell.Tab.0.bottom" timestamp="1575901053401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="33" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575901053401" />
+    <state width="1342" height="33" key="GridCell.Tab.0.center" timestamp="1575901053400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="33" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575901053400" />
+    <state width="1342" height="33" key="GridCell.Tab.0.left" timestamp="1575901053400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="33" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575901053400" />
+    <state width="1342" height="33" key="GridCell.Tab.0.right" timestamp="1575901053400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="33" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575901053400" />
+    <state x="471" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1575895382672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575895382672" />
+    <state x="488" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575895523566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1575895523566" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1575895633328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575895633328" />
+  </component>
+</project>
